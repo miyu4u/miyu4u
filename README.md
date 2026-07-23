@@ -18,7 +18,7 @@ I design with failure modes in mind: clear input contracts, explicit state trans
 
 - **[recurl](https://github.com/miyu4u/recurl)** — A curl-compatible CLI that preserves native `curl` behavior while adding output conversion, HTML sanitization, network policies, and optional browser rendering.
 
-- **[zido-mcp](https://github.com/miyu4u/zido-mcp)** — A TypeScript MCP server that unifies Kakao, Naver, and Google Maps for place search and geocoding, with ordered provider fallback and stdio/HTTP transports.
+- **[zido](https://github.com/miyu4u/zido)** — Nest.JS MCP & CLI multi architect application that unifies Kakao, Naver, and Google Maps for place search and geocoding, with ordered provider fallback.
 
 - **[pi-extensions-skill-registry](https://github.com/miyu4u/pi-extensions-skill-registry)** — A Pi/OMP extension that indexes `SKILL.md` documents with SQLite FTS5 and BM25, resolves names and aliases, and assembles bounded skill packets for agents.
 
